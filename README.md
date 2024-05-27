@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name Fathan Andi Kartagama. Born in Jakarta, Indonesia. I'm currently a college student at [ITERA](https://www.itera.ac.id). When i was a kid, I'd like to tweaks computer. Hopefuly in the future I'm able to help other people to know about programming.</p>
+<p align="left">My name Fathan Andi Kartagama. Born in Jakarta, Indonesia. I'm currently a college student at ITERA. When i was a kid, I'd like to tweaks computer. Hopefuly in the future I'm able to help other people to know about programming.</p>
 
 ###
 
@@ -76,5 +76,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=323543&color=323543&link=https%3A%2F%2Fgithub.com%2Fusers%2Ffollow%3Ftarget%3Dpataanggs" height="30"/>
   <img src="https://img.shields.io/github/stars/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E3B341&color=E3B341" height="30"/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpataanggs&countColor=%23263759>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpataanggs&countColor=%23263759> 0&style=for-the-badge&labelColor=%23263759&label=VISITORS" height="30"/>
+
 </div>
