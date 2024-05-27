@@ -69,12 +69,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pataanggs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataanggs&layout=compact&theme=dark&hide_border=false&border_radius=5" height="220" alt="languages graph"  />
 </div>
 
 ###
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=githu.com%2Fpataanggs&label=VISITOR&labelColor=%238a3ffc&countColor=%23ff64da&labelStyle=upper" height="29"/>
-</div>
 <div align="center">
   <img src="https://img.shields.io/github/followers/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=323543&color=323543&link=https%3A%2F%2Fgithub.com%2Fusers%2Ffollow%3Ftarget%3Dpataanggs" height="30"/>
   <img src="https://img.shields.io/github/stars/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E3B341&color=E3B341" height="30"/>
