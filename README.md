@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images6.alphacoders.com/125/1256745.jpg"  />
+  <img height="200" src="img/1256745.jpg"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 </div>
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="left">🔥My Stats :</h1>
 
 ###
 
