@@ -77,7 +77,8 @@
   <img src="https://img.shields.io/github/followers/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=323543&color=323543&link=https%3A%2F%2Fgithub.com%2Fusers%2Ffollow%3Ftarget%3Dpataanggs" height="30"/>
   <img src="https://img.shields.io/github/stars/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E3B341&color=E3B341" height="30"/>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpataanggs&countColor=%23263759" height="30"/>
-  <img src="https://raw.githubusercontent.com/pataanggs/pataanggs/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
+
+<img src="https://raw.githubusercontent.com/pataanggs/pataanggs/output/snake.svg" alt="Snake animation" />
