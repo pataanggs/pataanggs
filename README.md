@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name Fathan Andi Kartagama. Born in Jakarta, Indonesia. I'm currently a college student at ITERA. When i was a kid, I'd like to tweaks computer. Hopefuly in the future I'm able to help other people to know about programming.</p>
+<p align="left">My name Fathan. Born in Jakarta, Indonesia. I'm currently an undergraduate student at ITERA. When i was a kid, I'd like to tweaks computer. Hopefuly in the future I'm able to help other people to know about programming.</p>
 
 ###
 
@@ -68,7 +68,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pataanggs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataanggs&layout=compact&theme=dark&hide_border=false&border_radius=5" height="220" alt="languages graph"  />
 </div>
 
