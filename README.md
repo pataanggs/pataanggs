@@ -1,83 +1,141 @@
-<h2 align="left">Hi there, I'm Fathan - aka Pataanggs 👋</h2>
-
-###
-
 <div align="center">
-  <img height="200" src="img/1256745.jpg"  />
+  
+# 👋 Hello, I'm Fathan Kartagama
+### aka **Pataanggs** | Software Developer & Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Undergraduate+Student+%40+ITERA;Passionate+Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+
 </div>
 
-###
-
-<h1 align="left">👨 About Me</h1>
-
-###
-
-<p align="left">My name Fathan. Born in Jakarta, Indonesia. I'm currently an undergraduate student at ITERA. When i was a kid, I'd like to tweaks computer. Hopefuly in the future I'm able to help other people to know about programming.</p>
-
-###
-
-<h1 align="left">Skills</h1>
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img height="180" src="img/1256745.jpg" alt="Fathan's Profile Picture" style="border-radius: 10px;" />
 </div>
 
-###
+<br>
 
-<h1 align="left">💬Reach Me</h1>
-<p align="center"> You know where you can reach me lol. </p>
+## 🚀 About Me
 
-###
+> **"Passionate about technology since childhood, dedicated to helping others discover the world of programming"**
+
+🎓 **Current Status:** Undergraduate Student at Institut Teknologi Sumatera (ITERA)  
+🌍 **Location:** Jakarta, Indonesia  
+💡 **Mission:** Bridging the gap between complex technology and accessible learning  
+🔍 **Interests:** Software Development, System Architecture, and Tech Innovation  
+
+```javascript
+const fathan = {
+    pronouns: "He/Him",
+    location: "Jakarta, Indonesia",
+    education: "Institut Teknologi Sumatera (ITERA)",
+    currentFocus: ["Full-Stack Development", "Algorithm Design", "Open Source"],
+    funFact: "Started tweaking computers as a kid and never stopped!"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <a href="https://www.instagram.com/pataangg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/user/pataangg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="kartagama.fathan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kartagamafathan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,kotlin" alt="Programming Languages" />
+
+### **Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=vscode,linux,figma,photoshop,git" alt="Tools and Frameworks" />
+
+### **Currently Learning**
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws" alt="Currently Learning" />
+
 </div>
 
-###
-<h1 align="left">🔥My Stats :</h1>
+---
 
-###
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 📚 Learning
+- **Web Development** (React, Node.js)
+- **Cloud Technologies** (AWS, Docker)
+- **System Design** & Architecture
+- **Open Source Contribution**
+
+</td>
+<td align="center">
+
+### 🔨 Working On
+- Personal Portfolio Website
+- Algorithm Practice Platform
+- Contributing to Open Source Projects
+- University Computer Science Projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataanggs&layout=compact&theme=dark&hide_border=false&border_radius=5" height="220" alt="languages graph"  />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pataanggs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pataanggs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pataanggs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pataanggs&custom_title=Pataanggs%27s%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://img.shields.io/github/followers/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=323543&color=323543&link=https%3A%2F%2Fgithub.com%2Fusers%2Ffollow%3Ftarget%3Dpataanggs" height="30"/>
-  <img src="https://img.shields.io/github/stars/pataanggs?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E3B341&color=E3B341" height="30"/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpataanggs&countColor=%23263759" height="30"/>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartagamafathan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pataangg/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/pataangg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartagama.fathan@gmail.com)
+
 </div>
 
-<img src="https://raw.githubusercontent.com/pataanggs/pataanggs/output/snake.svg" alt="Snake animation" />
+---
+
+## 📈 Profile Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=pataanggs&label=Profile%20Views&color=brightgreen&style=flat-square)
+![Followers](https://img.shields.io/github/followers/pataanggs?style=social)
+![Stars](https://img.shields.io/github/stars/pataanggs?style=social)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pataanggs/pataanggs/output/snake.svg" alt="Snake Animation - GitHub Contributions" />
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Code is poetry written in logic"*
+
+**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Happy Coding!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+</div>
