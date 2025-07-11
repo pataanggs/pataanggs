@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img height="180" src="img/1256745.jpg" alt="Fathan's Profile Picture" style="border-radius: 10px;" />
+  <img height="180" src="img/profile-optimized.jpg" alt="Fathan's Profile Picture" style="border-radius: 10px;" />
 </div>
 
 <br>
@@ -97,6 +97,35 @@ const fathan = {
 
 ---
 
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+```
+🎓 Computer Science Student @ ITERA
+💻 Passionate about Clean Code & Best Practices  
+🌱 Continuous Learner & Tech Enthusiast
+🤝 Open Source Contributor
+📱 Mobile-First Development Advocate
+```
+
+</div>
+
+<details>
+<summary><b>🚀 Featured Projects & Contributions</b></summary>
+
+<br>
+
+> **Coming Soon:** Exciting projects in development!
+> - 🌐 **Personal Portfolio** - Modern React-based showcase
+> - 🔢 **Algorithm Visualizer** - Interactive learning platform
+> - 📚 **Study Companion App** - University project management
+> - 🎮 **Mini Games Collection** - Fun coding challenges
+
+</details>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -137,5 +166,11 @@ const fathan = {
 **Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Happy Coding!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+---
+
+### 📱 Mobile-Optimized • 🌍 Global Reach • ⚡ Fast Loading
+
+<sub>Made with ❤️ by Fathan Kartagama | Last Updated: 2024</sub>
 
 </div>
